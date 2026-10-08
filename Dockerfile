@@ -1,4 +1,4 @@
-from eclipse-temurin:25-jdk
-workdir /app
-copy target/*. jar app. jar
-cmd ["java", "-jar", "app.jar"]
+FROM eclipse-temurin:25-jdk
+WORKDIR /app
+COPY target/*. jar app. jar
+CMD ["java", "-jar", "app.jar"]
