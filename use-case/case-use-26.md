@@ -69,6 +69,6 @@
   - **Data Accuracy:** The system retrieves and displays data from the database.
   - **UI Clarity:** The output interface presents data in a clean and readable layout.
   - **Fault Tolerance:** The application handles system and database errors to prevent application crashes.
-  - **Structured Output:** The results screen includes the world population.
+  - **Structured Output:** The results screen includes the world total population.
 
 ---
