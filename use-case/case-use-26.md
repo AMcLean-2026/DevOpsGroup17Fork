@@ -6,7 +6,7 @@
 - **Use Case Name: View Total World Population**
 - **Primary Actor: User**
 - **Scope: Population Reporting System**
-- **Output Columns: Entity Name, Entity Type, Total Population**
+- **Output Columns: Total World Population**
 - **Level: User-Goal Level**
 
 ---
